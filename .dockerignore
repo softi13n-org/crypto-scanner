@@ -1,0 +1,17 @@
+/lib
+
+/build
+/.cache
+
+crypto
+
+*.DS_Store
+
+/.git
+/.gitignore
+
+/compile_commands.json
+
+/.vscode
+
+!logs/spread/columns.csv

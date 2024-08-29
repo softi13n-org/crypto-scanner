@@ -1,0 +1,18 @@
+{
+  "exchanges": [
+    "binance",
+    "mexc",
+    "gate"
+  ],
+  "coins": [
+    "sol",
+    "xlm",
+    "arb",
+    "sui",
+    "matic",
+    "ada"
+  ],
+  "min_profit": 0.001,
+  "scan_frequency_ms": 100,
+  "log_level": "info"
+}

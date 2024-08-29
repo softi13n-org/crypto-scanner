@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "macos-clang-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c17",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "macos-clang-x64",
+      "compilerArgs": [
+        "-lcrypto -L/usr/local/opt/openssl@3/lib -I/usr/local/opt/openssl@3/include -g"
+      ]
+    }
+  ],
+  "version": 4
+}

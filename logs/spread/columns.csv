@@ -1,0 +1,3 @@
+log time,coin,spread
+        ,    ,      , exchange maker, ask pure, ask after comm, comm maker, ask time
+        ,    ,      , exchange taker, bid pure, bid after comm, comm taker, bid time, diff time
